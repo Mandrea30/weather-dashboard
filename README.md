@@ -16,3 +16,5 @@ The cities searched will be stored in the local storage.
 - Web Coding & Development - All IN ONE by Paul McFedries
 - Eloquent Javascript by Marijn Haverbeke
  
+ ## Links
+ Deployed application: https://mandrea30.github.io/weather-dashboard/ 
